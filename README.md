@@ -4,9 +4,9 @@
 
 # How to use it ?
 - just download the Zip file and extrct it
-- ![Semantic description of image](/images/path/to/folder/image.png "Image Title")
+- ![](1.png)
 - go to manage extension and enable developer option
-- ![Semantic description of image](/images/path/to/folder/image.png "Image Title")
-- ![Semantic description of image](/images/path/to/folder/image.png "Image Title")
+- ![](2.png)
+- ![](3.png)
 - click on Load Unpacked and select the extracted file
 - now it's ready to use!
